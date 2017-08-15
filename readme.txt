@@ -6,3 +6,4 @@ this sec2
 =======
 this sec3
 >>>>>>> sec
+master
